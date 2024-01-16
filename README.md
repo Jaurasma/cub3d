@@ -33,7 +33,7 @@ If you are a 42 student, this should already be on your Mac. If not, please down
 ## Installation
 
 ```bash
-git clone https://github.com/tikanoja/cub3D cub3d && cd cub3d && make
+git clone https://github.com/Jaurasma/cub3d.git cub3d && cd cub3d && make
 ```
 
 ## Usage
