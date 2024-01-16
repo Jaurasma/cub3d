@@ -1,4 +1,4 @@
-# cub3d - A Ray casting Game Engine
+# cub3d - Ray casting game engine
 
 *This project was developed as part of the Ecole 42 curriculum in collaboration with [Tuukka Tikanoja](https://github.com/tikanoja).*
 
